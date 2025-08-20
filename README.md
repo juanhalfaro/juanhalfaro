@@ -1,15 +1,15 @@
 # Hola, mi nombre es Juanh <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Soy recien egresado en Ingenieria en Desarrollo y Gestión de Software
+### Desarrollador Web, Movil y BDD
 
-👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como HTM, SQL, Etc.
-
-📚 Actualmente estoy aprendiendo todo sobre tecnologías Frontend y Backend 😅
-
+👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como HTML, SQL, Etc.
+<br>
+📚 Tambien estoy aprendiendo todo sobre tecnologías Ionic y Python.
+<br>
 💪🏼 Metas futuras: Aprender más tecnologías - Nunca dejar de crear nuevas ideas.
-
-⚡ Dato curioso: Me encanta jugar videojuegos 🎮.
+<br>
+✉📫 Mi contacto: juan.alfaro.dev@outlook.com
 
 ### Spotify 🎧
 
